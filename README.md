@@ -24,7 +24,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/conversor-moedas-java.git
+git clone https://github.com/Basilio-bot/ConversorDeMoedas.
 Abra o projeto na sua IDE favorita (IntelliJ, Eclipse, NetBeans, etc.).
 
 Compile e execute a classe ConversorMoedas.java.
